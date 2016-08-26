@@ -1,0 +1,13 @@
+Install
+
+1. Using Package Manager Console
+PM> Install-Package Hangfire
+
+2. Add OWIN startup class
+http://www.asp.net/aspnet/overview/owin-and-katana/owin-startup-class-detection
+
+3. Create empty db to storage (SQL Server)
+
+4. Config to db in OWIN startup class
+
+5. Start
